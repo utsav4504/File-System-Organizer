@@ -1,4 +1,4 @@
-# File Organiser
+# File System Organizer
 
 ## Description
 - Developed a command-line interface application in Node.js for organizing files in a directory based on their extensions.
